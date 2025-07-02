@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Large-Scale Integer Programming and Reinforcement Learning
+title: About
 nav_order: 1
 ---
 
