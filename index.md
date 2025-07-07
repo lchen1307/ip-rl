@@ -5,14 +5,14 @@ nav_order: 1
 ---
 
 
-# 📘 Large-Scale Integer Programming and Reinforcement Learning  
+# 📘 Large-Scale Integer Programming 
 *A USTC course on optimization and reinforcement learning methods*
 
 📍 Summer 2025 · USTC East Campus Room 5205  
 
 👨‍🏫 Instructor: [Prof. Lan Lu](https://bs.ustc.edu.cn/chinese/profile-1928.html), [Prof. Zhi Wang](https://heyuanmingong.github.io/)
 
-🧑‍💻 Teaching Assistant: Long Chen
+🧑‍💻 Teaching Assistant: Long Chen (lchen1307@mail.ustc.edu.cn)
 
 ---
 
