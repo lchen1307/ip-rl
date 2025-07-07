@@ -29,16 +29,16 @@ nav_order: 1
 This course explores key algorithmic tools for solving large-scale integer programming (IP) and reinforcement learning (RL) problems. It is designed for students interested in optimization, artificial intelligence, and data-driven decision-making. The course balances theory and practice, offering both mathematical depth and hands-on implementation experience.
 
 In the integer programming part, we cover:
-	•	Modeling with integer variables to represent real-world discrete decisions;
-	•	LP relaxation and duality theory as the basis for advanced solution methods;
-	•	Exact algorithms including branch-and-bound and cutting planes;
-	•	Decomposition-based methods such as column generation, Benders decomposition, and Dantzig-Wolfe decomposition.
+- Modeling with integer variables to represent real-world discrete decisions;
+- LP relaxation and duality theory as the basis for advanced solution methods;
+- Exact algorithms including branch-and-bound and cutting planes;
+- Decomposition-based methods such as column generation, Benders decomposition, and Dantzig-Wolfe decomposition.
 
 In the reinforcement learning part, we introduce:
-	•	Classical dynamic programming and temporal-difference methods;
-	•	Deep reinforcement learning techniques such as policy gradients and actor-critic algorithms;
-	•	Cutting-edge developments in RL with large language models (LLMs), including fine-tuning, diffusion models, and decision-making across vision-language-action spaces;
-	•	Applications in scheduling, robotics, intelligent planning, and other real-world environments.
+- Classical dynamic programming and temporal-difference methods;
+- Deep reinforcement learning techniques such as policy gradients and actor-critic algorithms;
+- Cutting-edge developments in RL with large language models (LLMs), including fine-tuning, diffusion models, and decision-making across vision-language-action spaces;
+- Applications in scheduling, robotics, intelligent planning, and other real-world environments.
 
 By the end of the course, students will be able to build and solve complex optimization and learning models, understand their theoretical properties, and implement them for research or applied projects.
 
@@ -78,8 +78,6 @@ There will be 4–5 biweekly assignments:
 | HW4 | Paper review + modeling extension | Week 11 |
 
 Assignments should be submitted as PDF or ZIP via the [submission form](#) before the deadline.
-
-Late policy: -10% per day, up to 3 days max.
 
 ---
 
