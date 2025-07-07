@@ -4,7 +4,6 @@ title: About
 nav_order: 1
 ---
 
-<div align="center">
 
 # 📘 Large-Scale Integer Programming and Reinforcement Learning  
 
@@ -16,7 +15,6 @@ nav_order: 1
 
 🧑‍💻 Teaching Assistant: L. Chen (lchen1307@mail.ustc.edu.cn)
 
-</div>
 
 ---
 
