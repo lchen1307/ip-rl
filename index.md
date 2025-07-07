@@ -7,10 +7,12 @@ nav_order: 1
 
 # 📘 Large-Scale Integer Programming and Reinforcement Learning  
 *A USTC course on optimization and reinforcement learning methods*
-📍 Summer 2025 · USTC East Campus Room 5205  
-👨‍🏫 Instructor: Lan Lu, Zhi Wang
-🧑‍💻 Teaching Assistant: L. Chen (lchen1307@mail.ustc.edu.cn)
 
+📍 Summer 2025 · USTC East Campus Room 5205  
+
+👨‍🏫 Instructor: Lan Lu, Zhi Wang
+
+🧑‍💻 Teaching Assistant: L. Chen (lchen1307@mail.ustc.edu.cn)
 
 ---
 
@@ -22,7 +24,10 @@ nav_order: 1
 
 ## 🧭 Course Overview <a id="overview"></a>
 
-This course introduces essential algorithmic techniques for solving large-scale problems in integer programming and reinforcement learning. It covers modeling, LP relaxation, duality, and exact algorithms such as branch-and-bound and cutting planes, along with decomposition methods like column generation and Benders decomposition. On the learning side, the course explores both classical reinforcement learning—such as dynamic programming and temporal-difference methods—and modern approaches including deep RL and recent developments involving large language models. Through a combination of theory and implementation, students will learn to build, analyze, and apply advanced optimization and learning models to real-world problems.
+This course introduces essential algorithmic techniques for solving large-scale problems in **integer programming** and **reinforcement learning**. 
+It covers modeling, LP relaxation, duality, and exact algorithms such as branch-and-bound and cutting planes, along with decomposition methods like column generation and Benders decomposition. 
+On the learning side, the course explores both classical reinforcement learning—such as dynamic programming and temporal-difference methods—and modern approaches including deep RL and recent developments involving large language models (LLMs). 
+Through a combination of theory and implementation, students will learn to build, analyze, and apply advanced optimization and learning models to real-world problems.
 
 ---
 
