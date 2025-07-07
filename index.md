@@ -36,10 +36,10 @@ Through a combination of theory and implementation, students will learn to build
 
 ## 📆 Schedule <a id="schedule"></a>
 
-| Course | Topic |
-|------|-------|
-| 1 | Course overview; decision problems and complexity |
-| 2 | Basics of integer programming (IP), branch-and-bound |
+| Course | Topic | Slides |
+|--------|-------|--------|
+| 1 | Course overview; decision problems and complexity | [Slides1]()
+| 2 | Basics of integer programming (IP), branch-and-bound | [Slides2]()
 
 > *New slides and readings will be available by 7 PM each day.*
 
@@ -62,10 +62,7 @@ There will be 4–5 assignments:
 
 | HW | Topic | Due |
 |----|-------|-----|
-| HW1 | MILP modeling practice | Week 3 |
-| HW2 | Policy gradient implementation | Week 5 |
-| HW3 | RL-integrated scheduling model | Week 8 |
-| HW4 | Paper review + modeling extension | Week 11 |
+| None | None| None|
 
 Assignments should be submitted as PDF or ZIP via the [submission form](#) before the deadline.
 
