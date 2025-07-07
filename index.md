@@ -9,7 +9,7 @@ nav_order: 1
 
 *A USTC course on optimization and machine learning methods*
 
-📍 Summer 2025 · USTC East Campus Room 101  
+📍 Summer 2025 · USTC East Campus Room 5205  
 
 👨‍🏫 Instructor: Prof. Lan Lu, Prof. Zhi Wang
 
