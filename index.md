@@ -26,30 +26,21 @@ nav_order: 1
 
 ## 🧭 Course Overview <a id="overview"></a>
 
-This course explores the intersection of large-scale integer programming and reinforcement learning, two powerful paradigms for modeling and solving complex decision-making problems.
+This course explores key algorithmic tools for solving large-scale integer programming (IP) and reinforcement learning (RL) problems. It is designed for students interested in optimization, artificial intelligence, and data-driven decision-making. The course balances theory and practice, offering both mathematical depth and hands-on implementation experience.
 
-We will cover both classical algorithmic foundations and modern applications, including:
-- Dynamic programming, branch-and-bound, and cutting planes
-- Deep reinforcement learning methods (e.g., DQN, policy gradients, actor-critic)
-- Real-world modeling using MIP + RL (e.g., scheduling, robotics, planning)
+In the integer programming part, we cover:
+	•	Modeling with integer variables to represent real-world discrete decisions;
+	•	LP relaxation and duality theory as the basis for advanced solution methods;
+	•	Exact algorithms including branch-and-bound and cutting planes;
+	•	Decomposition-based methods such as column generation, Benders decomposition, and Dantzig-Wolfe decomposition.
 
-**Target audience**: Students interested in optimization, artificial intelligence, and algorithmic decision-making. No prior RL/IP experience required, but mathematical maturity is expected.
+In the reinforcement learning part, we introduce:
+	•	Classical dynamic programming and temporal-difference methods;
+	•	Deep reinforcement learning techniques such as policy gradients and actor-critic algorithms;
+	•	Cutting-edge developments in RL with large language models (LLMs), including fine-tuning, diffusion models, and decision-making across vision-language-action spaces;
+	•	Applications in scheduling, robotics, intelligent planning, and other real-world environments.
 
----
-
-## 📚 Syllabus <a id="syllabus"></a>
-
-- Part I: Foundations
-  - Introduction to integer programming (IP) and mixed-integer linear programming (MILP)
-  - Classical RL: dynamic programming, temporal-difference learning
-  - Policy gradient and actor-critic methods
-
-- Part II: Integration and Applications
-  - Combining IP and RL: structured decision models
-  - RL with constraints and symbolic structure
-  - High-performance solvers and learning-augmented optimization
-
-- Final project (optional): application-oriented modeling with feedback
+By the end of the course, students will be able to build and solve complex optimization and learning models, understand their theoretical properties, and implement them for research or applied projects.
 
 ---
 
@@ -74,16 +65,6 @@ We will cover both classical algorithmic foundations and modern applications, in
 
 ---
 
-## 👨‍🏫 Staff <a id="staff"></a>
-
-- **Instructor**:  
-  L. Chen (lchen1307@mail.ustc.edu.cn)  
-  Office hours: Tue 15:30–16:30 @ East Campus 405
-
-- **Teaching Assistants**:  
-  TBD — We will update once finalized.
-
----
 
 ## 📥 Assignments <a id="assignments"></a>
 
