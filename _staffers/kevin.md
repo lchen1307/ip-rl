@@ -1,8 +1,8 @@
 ---
-name: Zhi Wang
+name: Lan Lu
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: lluae@ustc.edu.cn
+website: https://bs.ustc.edu.cn/chinese/profile-1928.html
 photo: kevin.jpg
 meta:
   Office Hours: Somewhere on the internet
