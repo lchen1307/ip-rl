@@ -10,9 +10,9 @@ nav_order: 1
 
 📍 Summer 2025 · USTC East Campus Room 5205  
 
-👨‍🏫 Instructor: Lan Lu, Zhi Wang
+👨‍🏫 Instructor: [Prof. Lan Lu](https://bs.ustc.edu.cn/chinese/profile-1928.html), [Prof. Zhi Wang](https://heyuanmingong.github.io/)
 
-🧑‍💻 Teaching Assistant: L. Chen (lchen1307@mail.ustc.edu.cn)
+🧑‍💻 Teaching Assistant: Long Chen
 
 ---
 
@@ -25,8 +25,11 @@ nav_order: 1
 ## 🧭 Course Overview <a id="overview"></a>
 
 This course introduces essential algorithmic techniques for solving large-scale problems in **integer programming** and **reinforcement learning**. 
+
 It covers modeling, LP relaxation, duality, and exact algorithms such as branch-and-bound and cutting planes, along with decomposition methods like column generation and Benders decomposition. 
+
 On the learning side, the course explores both classical reinforcement learning—such as dynamic programming and temporal-difference methods—and modern approaches including deep RL and recent developments involving large language models (LLMs). 
+
 Through a combination of theory and implementation, students will learn to build, analyze, and apply advanced optimization and learning models to real-world problems.
 
 ---
