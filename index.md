@@ -39,7 +39,7 @@ Through a combination of theory and implementation, students will learn to build
 
 | Course | Catagory |Topic | Slides |
 |--------|-------|--------|---------|
-| 1 | IP | Foundations of Integer Programming: Modeling and Formulation | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture1.pdf)
+| 1 | IP | Foundations of IP: Modeling and Formulation | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture1.pdf)
 | 2 | IP | Formulation Strategies and Logical Constraints | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture2.pdf)
 | 3 | IP | Compactness, Reformulation, and Geometry in IP | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture3.pdf)
 | 4 | IP | Computational MILP: Branch and Bound | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture7.pdf)
