@@ -37,12 +37,15 @@ Through a combination of theory and implementation, students will learn to build
 
 ## 📚 Course Topics and Slides <a id="schedule"></a>
 
-| Course | Topic | Slides |
-|--------|-------|--------|
-| 1 | Foundations of Integer Programming: Modeling and Formulation | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture1.pdf)
-| 2 | Formulation Strategies and Logical Constraints | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture2.pdf)
-| 3 | Compactness, Reformulation, and Geometry in IP | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture3.pdf)
-| 4 | Computational MILP: Branch and Bound | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture7.pdf)
+| Course | Catagory |Topic | Slides |
+|--------|-------|--------|---------|
+| 1 | IP | Foundations of Integer Programming: Modeling and Formulation | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture1.pdf)
+| 2 | IP | Formulation Strategies and Logical Constraints | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture2.pdf)
+| 3 | IP | Compactness, Reformulation, and Geometry in IP | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture3.pdf)
+| 4 | IP | Computational MILP: Branch and Bound | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture7.pdf)
+| 5 | IP | None | Download
+| 6 | RL | None | Download
+| 5 | LLM| None | Download
 
 > *New slides and readings will be available by 7 PM each day.*
 
