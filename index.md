@@ -38,8 +38,10 @@ Through a combination of theory and implementation, students will learn to build
 
 | Course | Topic | Slides |
 |--------|-------|--------|
-| 1 | Course overview; decision problems and complexity | [Slides1]()
-| 2 | Basics of integer programming (IP), branch-and-bound | [Slides2]()
+| 1 | Foundations of Integer Programming: Modeling and Formulation | [Slides1](../assets/files/Lecture1.pdf)
+| 2 | Formulation Strategies and Logical Constraints | [Slides2](../assets/files/Lecture2.pdf)
+| 3 | Compactness, Reformulation, and Geometry in IP | [Slides3](../assets/files/Lecture3.pdf)
+| 4 | Computational MILP: Branch and Bound | [Slides7](../assets/files/Lecture7.pdf)
 
 > *New slides and readings will be available by 7 PM each day.*
 
