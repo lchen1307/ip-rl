@@ -18,23 +18,23 @@ nav_order: 1
 
 ## 🔗 Quick Navigation
 
-[Overview](#overview) · [Schedule](#schedule) · [Quizzes](#quizzes) · [Assignments](#assignments)
+[Overview](#overview) · [Slides](#schedule) · [Quizzes](#quizzes) · [Assignments](#assignments)
 
 ---
 
 ## 🧭 Course Overview <a id="overview"></a>
 
-This course introduces essential algorithmic techniques for solving large-scale problems in **integer programming** and **reinforcement learning**. 
+This course introduces essential algorithmic techniques for solving large-scale problems in **integer programming** and **reinforcement learning**, taught by [Prof. Lan Lu]((https://bs.ustc.edu.cn/chinese/profile-1928.html)) and [Prof. Zhi Wang](https://heyuanmingong.github.io/), respectively. 
 
 It covers modeling, LP relaxation, duality, and exact algorithms such as branch-and-bound and cutting planes, along with decomposition methods like column generation and Benders decomposition. 
 
 On the learning side, the course explores both classical reinforcement learning—such as dynamic programming and temporal-difference methods—and modern approaches including deep RL and recent developments involving large language models (LLMs). 
 
-Through a combination of theory and implementation, students will learn to build, analyze, and apply advanced optimization and learning models to real-world problems.
+Through a combination of theory and implementation, students will learn to build, analyze, and apply advanced optimization and learning models to real-world problems. **Grades will be based on attendance, in-class quizzes, and homework assignments**.
 
 ---
 
-## 📆 Schedule <a id="schedule"></a>
+## 📆 📚 Course Topics and Slides <a id="schedule"></a>
 
 | Course | Topic | Slides |
 |--------|-------|--------|
@@ -61,7 +61,7 @@ Short quizzes will be conducted during lectures to reinforce key concepts and as
 
 ## 📥 Assignments <a id="assignments"></a>
 
-There will be 4–5 assignments:
+There will be a few assignments:
 
 | HW | Topic | Due |
 |----|-------|-----|
