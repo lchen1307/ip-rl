@@ -53,7 +53,7 @@ Short quizzes will be conducted during lectures to reinforce key concepts and as
 
 | Date     | Quiz Topic        | Format         | PDF            | Solution         |
 |----------|-------------------|----------------|----------------|------------------|
-| July 10  | Strong Formulation  | Proof | [Download](assets/quizzes/quiz1.pdf) | [Solution](assets/quizzes/quiz1-sol.pdf) |
+| July 10  | Strong Formulation  | Proof | [Download](https://lchen1307.github.io/ip-rl/assets/files/test1.pdf) | [None](assets/quizzes/quiz1-sol.pdf) |
 
 
 ---
