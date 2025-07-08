@@ -24,7 +24,7 @@ nav_order: 1
 
 ## 🧭 Course Overview <a id="overview"></a>
 
-This course introduces essential algorithmic techniques for solving large-scale problems in **integer programming** and **reinforcement learning**, taught by [Prof. Lan Lu]((https://bs.ustc.edu.cn/chinese/profile-1928.html)) and [Prof. Zhi Wang](https://heyuanmingong.github.io/), respectively. 
+This course introduces essential algorithmic techniques for solving large-scale problems in **integer programming** and **reinforcement learning**, taught by [Prof. Lan Lu](https://bs.ustc.edu.cn/chinese/profile-1928.html) and [Prof. Zhi Wang](https://heyuanmingong.github.io/), respectively. 
 
 It covers modeling, LP relaxation, duality, and exact algorithms such as branch-and-bound and cutting planes, along with decomposition methods like column generation and Benders decomposition. 
 
