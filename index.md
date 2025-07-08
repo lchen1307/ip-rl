@@ -35,7 +35,7 @@ Through a combination of theory and implementation, students will learn to build
 ---
 
 
-## 📆 📚 Course Topics and Slides <a id="schedule"></a>
+## 📚 Course Topics and Slides <a id="schedule"></a>
 
 | Course | Topic | Slides |
 |--------|-------|--------|
