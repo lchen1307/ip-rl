@@ -47,7 +47,8 @@ Through a combination of theory and implementation, students will learn to build
 | 6 | IP | Relaxations and Lagrangian Duality | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture10.pdf)
 | 7 | IP | Branch-and-Bound Search Strategies | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture11.pdf)
 | 8 | RL | Dynamic Programming | Download
-| 9 | LLM| None | Download
+| 9 | RL | Monte Carlo and Temporal-Difference | Download
+| 10 | LLM| None | Download
 
 > *New slides and readings will be available by 7 PM each day.*
 
