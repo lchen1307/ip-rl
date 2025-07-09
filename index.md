@@ -43,9 +43,11 @@ Through a combination of theory and implementation, students will learn to build
 | 2 | IP | Formulation Strategies and Logical Constraints | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture2.pdf)
 | 3 | IP | Compactness, Reformulation, and Geometry in IP | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture3.pdf)
 | 4 | IP | Computational MILP: Branch and Bound | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture7.pdf)
-| 5 | IP | None | Download
-| 6 | RL | None | Download
-| 5 | LLM| None | Download
+| 5 | IP | Duality and Value Functions in MILP | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture8.pdf)
+| 6 | IP | Relaxations and Lagrangian Duality | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture10.pdf)
+| 7 | IP | Branch-and-Bound Search Strategies | [Download](https://lchen1307.github.io/ip-rl/assets/files/Lecture11.pdf)
+| 8 | RL | Dynamic Programming | Download
+| 9 | LLM| None | Download
 
 > *New slides and readings will be available by 7 PM each day.*
 
