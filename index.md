@@ -49,7 +49,11 @@ Through a combination of theory and implementation, students will learn to build
 | 8 | RL | Dynamic Programming | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec3.pdf)
 | 9 | RL | Monte Carlo and Temporal-Difference Learning | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec4.pdf)
 | 10 | RL | Introduction to Deep Reinforcement Learning | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec5.pdf)
-| 11 | LLM| None | Download
+| 11 | RL | Policy Gradients | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec6.pdf)
+| 12 | RL | Advanced Policy Gradients | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec6-2.pdf)
+| 13 | RL | Actor-Critic Algorithms | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec7.pdf)
+| 14 | RL | Value Function Methods | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec8.pdf)
+| 15 | RL | Deep Q-Learning | [Download](https://lchen1307.github.io/ip-rl/assets/files/lec9.pdf)
 
 > *New slides and readings will be available by 7 PM each day.*
 
